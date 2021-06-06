@@ -33,13 +33,13 @@ The projectile is 1x3 pixels and travels upwards 1px per frame.
 The goal of the game is for the player to destroy all invaders before either the tank is destroyed or the invaders land.
 The player wins when the following conditions have been met: 
 
-All invaders are destroyed.
+* All invaders are destroyed.
 
 The computer wins when one of the following conditions have been met:
 
-An invader reaches the barriers (10px away from the barriers). 
+* An invader reaches the barriers (10px away from the barriers). 
 
-The tank is hit 3 times and destroyed.
+* The tank is hit 3 times and destroyed.
 
 **Application**
 Your application will need to adhere to the following specification
