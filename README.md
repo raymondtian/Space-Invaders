@@ -42,10 +42,11 @@ The computer wins when one of the following conditions have been met:
 * The tank is hit 3 times and destroyed.
 
 **Application**
+
 Your application will need to adhere to the following specification
-640 width 480 height window with a black background.
-Left boundary (tank cannot move past this point) at x 180, Right boundary at x 460.
-Must maintain a frame rate of 60 frames per second.
-Your application must be able to compile and run using build & gradle run
-Your program must not exhibit any memory leak, try to load all assets prior to usage.
-You must use the processing library, you cannot use any other framework such as javafx, awt or jogl.
+* 640 width 480 height window with a black background.
+* Left boundary (tank cannot move past this point) at x 180, Right boundary at x 460.
+* Must maintain a frame rate of 60 frames per second.
+* Your application must be able to compile and run using build & gradle run
+* Your program must not exhibit any memory leak, try to load all assets prior to usage.
+* You must use the processing library, you cannot use any other framework such as javafx, awt or jogl.
